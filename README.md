@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sacha%20G.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Fullstack%20Developer%20%C2%B7%20Freelance&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sacha%20G.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20to%20internships&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+at+Ariel+University;Building+Lore+%E2%80%94+AI+learning+paths;Fullstack+dev+%C2%B7+TypeScript+%26+React;Occasional+World+of+Warcraft+addon+dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Software+Engineering+student+%40+Ariel;Full+Stack+AI+track+%C2%B7+graduating+July+2027;Building+Lore+%E2%80%94+AI+learning+paths;Looking+for+a+QA+%2F+dev+internship" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://withlore.app"><img src="https://img.shields.io/badge/Lore-withlore.app-6366F1?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sachaganem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sachaganem55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=sachag1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
@@ -19,9 +20,10 @@
 ```ts
 const sacha = {
   location:  "Israel",
-  studying:  ["Data Structures & Algorithms", "TypeScript", "Systems Analysis"],
-  building:  "Lore — AI-generated 6-week learning paths",
-  learning:  ["MongoDB", "Data Structures & Algorithms"],
+  studying:  "Practical Software Engineering, Full Stack AI (Ariel, until July 2027)",
+  building:  "Lore — AI-generated learning paths, live with paying subscribers",
+  learning:  ["Testing & QA automation", "AI agents", "Data Structures & Algorithms"],
+  lookingFor: "QA / software development internship",
   askMeAbout: ["fullstack web", "AI products", "WoW addons"],
 }
 ```
@@ -32,9 +34,9 @@ const sacha = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,cs,java,lua,postgres,mongodb,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cs,java,lua,postgres,supabase,mongodb,git,vercel&theme=dark" />
 
 </div>
 
@@ -52,7 +54,10 @@ const sacha = {
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Lore](https://withlore.app)** | Learn a subject you love in 6 weeks — AI + quizzes | `TypeScript` `React` |
+| **[Lore](https://withlore.app)** | Learn a subject you love in 6 weeks — AI-generated journeys, quizzes, live with paying subscribers | `Next.js` `TypeScript` `Supabase` `Claude API` |
+| **[Toys API](https://github.com/sachag1/toys_api)** | REST API with JWT auth, bcrypt hashing and Joi validation | `Node.js` `Express` `MongoDB` |
+| **[n8n AI Automations](https://github.com/sachag1/n8n_final)** | AI chatbot for Lore (agent + memory + tool) and an LLM greeting generator with Airtable and email | `n8n` `Gemini` |
+| **[VOD Movies](https://github.com/sachag1/vod-movies)** | Movie search app on the OMDb API, deployed on Vercel | `React` `Bootstrap` |
 | **Lamenter's Helper** | World of Warcraft addon — roster-aware, customizable alerts for Midnight Season 1 raid bosses | `Lua` |
 
 <br/>
