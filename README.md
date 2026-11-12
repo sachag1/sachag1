@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sacha%20G.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Open%20to%20internships&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sacha%20G.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Founder%20of%20Lore&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Software+Engineering+student+%40+Ariel;Full+Stack+AI+track+%C2%B7+graduating+July+2027;Building+Lore+%E2%80%94+AI+learning+paths;Looking+for+a+QA+%2F+dev+internship" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Practical+Software+Engineering+student+%40+Ariel;Full+Stack+AI+track+%C2%B7+graduating+July+2027;Building+Lore+%E2%80%94+AI+learning+paths;QA+internship+%40+Rhino+Certifications+from+Feb+2027" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@ const sacha = {
   studying:  "Practical Software Engineering, Full Stack AI (Ariel, until July 2027)",
   building:  "Lore — AI-generated learning paths, live with paying subscribers",
   learning:  ["Testing & QA automation", "AI agents", "Data Structures & Algorithms"],
-  lookingFor: "QA / software development internship",
+  nextUp:    "QA tester internship @ Rhino Certifications (from February 2027)",
   askMeAbout: ["fullstack web", "AI products", "WoW addons"],
 }
 ```
